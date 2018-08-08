@@ -1,0 +1,29 @@
+/*h1 {*/
+  /*color: red;*/
+/*}*/
+p {
+    color: yellow;
+    background-color: gray;
+}
+
+.secondParagraph{
+    background-color: blue;
+}
+
+.firstParagraph{
+    color: pink;
+}
+
+.thirdParagraph{
+    color: pink;
+    text-align: center;
+}
+
+.fourthParagraph{
+    color: pink;
+}
+
+span {
+    text-decoration: underline;
+    display: block;
+}
